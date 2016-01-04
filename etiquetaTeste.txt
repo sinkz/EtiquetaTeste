@@ -1,0 +1,34 @@
+Layout Gerado pelo sistema:
+
+
+1234                                   4444444
+Rodrigo                                   Rodrigo
+Paul Percy Harris, 444                            Rua Teste, 444
+Centro                                    Centro
+86400-000 Jacarezinho                 PR             832-323 Sao Paulo                     SP
+.
+323                                     42113
+Fabio                                     Fabio
+Rua Teste, 444                            Rua Teste, 444
+Centro                                    Centro
+832-323 Sao Paulo                     SP             832-323 Sao Paulo                     SP
+.
+
+
+
+
+Esse seria o Layout correto:
+
+1234                                       4444444
+Rodrigo                                    Rodrigo
+Paul Percy Harris, 444                     Rua Teste, 444
+Centro                                     Centro
+86400-000 Jacarezinho                 PR   832-323 Sao Paulo                     SP
+.
+323                                        42113
+Fabio                                      Fabio
+Rua Teste, 444                             Rua Teste, 444
+Centro                                     Centro
+832-323 Sao Paulo                     SP   832-323 Sao Paulo                     SP
+.
+
